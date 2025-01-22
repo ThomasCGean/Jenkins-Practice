@@ -21,8 +21,8 @@ class MathUtils2Test {
 	@Test
 	void testMult() {
 		MathUtils2 testMult = new MathUtils2();
-		int product = testMult.mult(2, 5);
-		assertEquals(10,product);
+		int product = testMult.mult(4, 5);
+		assertEquals(20,product);
 	}
 	@Test
 	void testDiv() {
