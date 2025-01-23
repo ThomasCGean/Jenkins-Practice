@@ -1,4 +1,4 @@
-package test;
+package com.example.utils.math_utils;
 
 import static org.junit.jupiter.api.Assertions.*;
 
